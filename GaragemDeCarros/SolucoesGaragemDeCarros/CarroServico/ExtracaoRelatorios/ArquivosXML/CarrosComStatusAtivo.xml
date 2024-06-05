@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfCarroServico xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CarroServico>
+    <Id>1</Id>
+    <Carro>
+      <Placa>ABC0001</Placa>
+      <Nome>Mercedes-Benz Limited</Nome>
+      <AnoModelo>2011</AnoModelo>
+      <AnoFabricacao>2010</AnoFabricacao>
+      <Cor>Vermelho</Cor>
+    </Carro>
+    <Servico>
+      <Id>1</Id>
+      <Descricao>Troca de óleo</Descricao>
+    </Servico>
+    <Status>true</Status>
+  </CarroServico>
+  <CarroServico>
+    <Id>3</Id>
+    <Carro>
+      <Placa>ABC0003</Placa>
+      <Nome>BMW GT</Nome>
+      <AnoModelo>2007</AnoModelo>
+      <AnoFabricacao>2006</AnoFabricacao>
+      <Cor>Vermelho</Cor>
+    </Carro>
+    <Servico>
+      <Id>1</Id>
+      <Descricao>Troca de óleo</Descricao>
+    </Servico>
+    <Status>true</Status>
+  </CarroServico>
+  <CarroServico>
+    <Id>4</Id>
+    <Carro>
+      <Placa>ABC0004</Placa>
+      <Nome>Fiat XL</Nome>
+      <AnoModelo>2020</AnoModelo>
+      <AnoFabricacao>2019</AnoFabricacao>
+      <Cor>Azul</Cor>
+    </Carro>
+    <Servico>
+      <Id>1</Id>
+      <Descricao>Troca de óleo</Descricao>
+    </Servico>
+    <Status>true</Status>
+  </CarroServico>
+</ArrayOfCarroServico>

@@ -45,6 +45,7 @@ do
             Console.WriteLine("2. Concluido");
             Console.Write("\nDigite a opção: ");
             int status = int.Parse(Console.ReadLine());
+            Console.Clear();
             if (status == 1) carroServico.Status = true;
             if (status == 2) carroServico.Status = false;
 

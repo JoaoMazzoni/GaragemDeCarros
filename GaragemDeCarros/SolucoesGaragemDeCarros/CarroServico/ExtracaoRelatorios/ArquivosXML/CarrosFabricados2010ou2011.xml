@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfCarro xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Carro>
+    <Placa>ABC0001</Placa>
+    <Nome>Mercedes-Benz Limited</Nome>
+    <AnoModelo>2011</AnoModelo>
+    <AnoFabricacao>2010</AnoFabricacao>
+    <Cor>Vermelho</Cor>
+  </Carro>
+  <Carro>
+    <Placa>ABC0006</Placa>
+    <Nome>Mercedes-Benz Limited</Nome>
+    <AnoModelo>2012</AnoModelo>
+    <AnoFabricacao>2011</AnoFabricacao>
+    <Cor>Azul</Cor>
+  </Carro>
+  <Carro>
+    <Placa>ABC0008</Placa>
+    <Nome>Ford LX</Nome>
+    <AnoModelo>2011</AnoModelo>
+    <AnoFabricacao>2010</AnoFabricacao>
+    <Cor>Azul</Cor>
+  </Carro>
+  <Carro>
+    <Placa>ABC0015</Placa>
+    <Nome>Ford Top</Nome>
+    <AnoModelo>2012</AnoModelo>
+    <AnoFabricacao>2011</AnoFabricacao>
+    <Cor>Vermelho</Cor>
+  </Carro>
+  <Carro>
+    <Placa>ABC0019</Placa>
+    <Nome>Ford Limited</Nome>
+    <AnoModelo>2012</AnoModelo>
+    <AnoFabricacao>2011</AnoFabricacao>
+    <Cor>Vermelho</Cor>
+  </Carro>
+  <Carro>
+    <Placa>ABC0025</Placa>
+    <Nome>Honda Top</Nome>
+    <AnoModelo>2011</AnoModelo>
+    <AnoFabricacao>2010</AnoFabricacao>
+    <Cor>Vermelho</Cor>
+  </Carro>
+</ArrayOfCarro>

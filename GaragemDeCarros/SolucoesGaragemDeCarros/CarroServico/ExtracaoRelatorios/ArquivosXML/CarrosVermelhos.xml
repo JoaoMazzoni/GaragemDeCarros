@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfCarro xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Carro>
+    <Placa>ABC0001</Placa>
+    <Nome>Mercedes-Benz Limited</Nome>
+    <AnoModelo>2011</AnoModelo>
+    <AnoFabricacao>2010</AnoFabricacao>
+    <Cor>Vermelho</Cor>
+  </Carro>
+  <Carro>
+    <Placa>ABC0003</Placa>
+    <Nome>BMW GT</Nome>
+    <AnoModelo>2007</AnoModelo>
+    <AnoFabricacao>2006</AnoFabricacao>
+    <Cor>Vermelho</Cor>
+  </Carro>
+  <Carro>
+    <Placa>ABC0005</Placa>
+    <Nome>Honda Sedan</Nome>
+    <AnoModelo>2024</AnoModelo>
+    <AnoFabricacao>2023</AnoFabricacao>
+    <Cor>Vermelho</Cor>
+  </Carro>
+  <Carro>
+    <Placa>ABC0007</Placa>
+    <Nome>Fiat XL</Nome>
+    <AnoModelo>2017</AnoModelo>
+    <AnoFabricacao>2016</AnoFabricacao>
+    <Cor>Vermelho</Cor>
+  </Carro>
+  <Carro>
+    <Placa>ABC0009</Placa>
+    <Nome>Mercedes-Benz LX</Nome>
+    <AnoModelo>2009</AnoModelo>
+    <AnoFabricacao>2008</AnoFabricacao>
+    <Cor>Vermelho</Cor>
+  </Carro>
+  <Carro>
+    <Placa>ABC0011</Placa>
+    <Nome>Audi GT</Nome>
+    <AnoModelo>2004</AnoModelo>
+    <AnoFabricacao>2003</AnoFabricacao>
+    <Cor>Vermelho</Cor>
+  </Carro>
+  <Carro>
+    <Placa>ABC0013</Placa>
+    <Nome>BMW Limited</Nome>
+    <AnoModelo>2018</AnoModelo>
+    <AnoFabricacao>2017</AnoFabricacao>
+    <Cor>Vermelho</Cor>
+  </Carro>
+  <Carro>
+    <Placa>ABC0015</Placa>
+    <Nome>Ford Top</Nome>
+    <AnoModelo>2012</AnoModelo>
+    <AnoFabricacao>2011</AnoFabricacao>
+    <Cor>Vermelho</Cor>
+  </Carro>
+  <Carro>
+    <Placa>ABC0017</Placa>
+    <Nome>Ford Sedan</Nome>
+    <AnoModelo>2007</AnoModelo>
+    <AnoFabricacao>2006</AnoFabricacao>
+    <Cor>Vermelho</Cor>
+  </Carro>
+  <Carro>
+    <Placa>ABC0019</Placa>
+    <Nome>Ford Limited</Nome>
+    <AnoModelo>2012</AnoModelo>
+    <AnoFabricacao>2011</AnoFabricacao>
+    <Cor>Vermelho</Cor>
+  </Carro>
+  <Carro>
+    <Placa>ABC0021</Placa>
+    <Nome>Fiat GT</Nome>
+    <AnoModelo>2010</AnoModelo>
+    <AnoFabricacao>2009</AnoFabricacao>
+    <Cor>Vermelho</Cor>
+  </Carro>
+  <Carro>
+    <Placa>ABC0023</Placa>
+    <Nome>Fiat Limited</Nome>
+    <AnoModelo>2017</AnoModelo>
+    <AnoFabricacao>2016</AnoFabricacao>
+    <Cor>Vermelho</Cor>
+  </Carro>
+  <Carro>
+    <Placa>ABC0025</Placa>
+    <Nome>Honda Top</Nome>
+    <AnoModelo>2011</AnoModelo>
+    <AnoFabricacao>2010</AnoFabricacao>
+    <Cor>Vermelho</Cor>
+  </Carro>
+  <Carro>
+    <Placa>ABC0027</Placa>
+    <Nome>Ford Sport</Nome>
+    <AnoModelo>2010</AnoModelo>
+    <AnoFabricacao>2009</AnoFabricacao>
+    <Cor>Vermelho</Cor>
+  </Carro>
+  <Carro>
+    <Placa>ABC0029</Placa>
+    <Nome>Mercedes-Benz GT</Nome>
+    <AnoModelo>2022</AnoModelo>
+    <AnoFabricacao>2021</AnoFabricacao>
+    <Cor>Vermelho</Cor>
+  </Carro>
+</ArrayOfCarro>

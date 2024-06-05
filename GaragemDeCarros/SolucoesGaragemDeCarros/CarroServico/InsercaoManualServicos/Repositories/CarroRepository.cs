@@ -10,12 +10,14 @@ namespace Repository
 {
     public class CarroRepository
     {
-        static string sqlConnectionString = "Server=127.0.0.1; Database=DBCarroService; User Id=sa; Password=SqlServer2019!; TrustServerCertificate=True";
+        static string sqlConnectionString = "Server=127.0.0.1; Database=DBCarroServico; User Id=sa; Password=SqlServer2019!; TrustServerCertificate=True";
 
         SqlConnection conn;
 
         public CarroRepository()
         {
+            conn = new SqlConnection(sqlConnectionString);
+            conn.Open();
         }
 
         public List<Carro> LerDados()
